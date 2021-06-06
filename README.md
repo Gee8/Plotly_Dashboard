@@ -1,6 +1,6 @@
 # Plotly_Dashboard
 In this analysis we have the samples data (`samples.json`) containing the bacteria data gathered from participants belly buttons. We have built interactive charts within `charts1.js` and connected them to our `index.html` to display a horizontal bar chart depicting the top 10 bacteria found for each participant, a guage chart displaying the number of times the participants washed their belly buttons, and a bubble chart showing the amounts of each bacteria found for each participant. The participants can be selected by their number on the drop down menu on the left hand side of the webpage. We have also customized the webpage using our `style.css`, editing html tags, and customizing the trace and layout of the charts within the `buildCharts()` function within our `charts1.js`. Shown below are images of our three charts for participant number 940.
 
-<img width="300" alt="barChart" src="static\images\barChart.PNG">       <img width="300" alt="gaugeChart" src="static\images\guageChart.PNG">
+<img width="300" alt="barChart" src="./static\images\barChart.PNG">       <img width="300" alt="gaugeChart" src="./static\images\guageChart.PNG">
 
-<img width="650" alt="bubbleChart" src="static\images\bubbleChart.PNG">
+<img width="650" alt="bubbleChart" src="./static\images\bubbleChart.PNG">
