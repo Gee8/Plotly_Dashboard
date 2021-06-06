@@ -1,0 +1,26 @@
+body {
+    /* background-color: #438f96; */
+    color: #020101;
+  }
+/* div class = "col-md-5"{
+    
+    background-color: aqua;
+
+} */
+
+  .jumbotron {
+    background-image: url("../images/bacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+  /* .gauge {
+      background-color: aqua;
+      border: aqua;
+      
+  } */
+
+  .container {width:auto;
+    margin:0 auto;
+    padding:10px 25px;
+    border:1px solid rgb(182, 70, 70);}
+    /* background:rgb(245, 242, 242); } */
